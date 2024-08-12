@@ -1,7 +1,7 @@
 This is main file.
 I learn git.
 Manage the database.
-Closing the databse connection.
+Closing the mysql databse connection.
 
 Change 1
 Change 2 in harsh's database
