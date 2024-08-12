@@ -1,3 +1,4 @@
 This is main file.
 I learn git.
 Manage the database.
+Closing the connection.
